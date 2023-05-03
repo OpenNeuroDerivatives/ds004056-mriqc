@@ -1,0 +1,15 @@
+Warning: Permanently added 'c172-204' (ECDSA) to the list of known hosts.
+WARNING (04/27/23 16:44:51): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5424812.hostlist.51bOvC7o to get hosts
+starting job on c172-204
+starting job on c173-041
+starting job on c173-072
+starting job on c173-111
+starting job on c178-054
+starting job on c178-093
+starting job on c178-193
+starting job on c180-023
+slurmstepd: error: *** JOB 5424812 ON c172-204 CANCELLED AT 2023-04-27T22:26:53 ***
+Killed by signal 15.
+Killed by signal 15.
+Terminated
